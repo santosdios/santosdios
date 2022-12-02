@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santosdios from Cumulo.pro
-- 👀 I’m interested in ... crypto, PHP, e-commerce, developed
+- 👀 I’m interested in ... crypto, PHP, Smart Contract , developed
 - 🌱 I’m currently learning ... ALL .. JAVASCRIPT, PHP, XML, 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... blockchain nodes
 - 📫 How to reach me ... Cumulo.pro
 
 <!---
